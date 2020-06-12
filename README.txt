@@ -5,7 +5,7 @@ Then, using another program (word_analysis.py), we retrieve the data from the da
 
 I did this to put into practice different Python tools (like website parsing, SQL and matplotlib, among others).
 
-Any comments or ways to improve the code are more than welcome. 
+Any comments or ways to improve the code are welcome. 
 
 Additionally, any suggestions of further analysis that could be done with the word frequency is appreciated. 
 
