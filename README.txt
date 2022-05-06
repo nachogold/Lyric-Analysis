@@ -6,8 +6,4 @@ I did this to put into practice different Python tools (like website parsing, SQ
 
 Any comments or ways to improve the code are welcome. 
 
-Additionally, any suggestions of further analysis that could be done with the word frequency is appreciated. 
-
-Thank you!
-
-Nacho
+Additionally, any suggestions of further analysis that could be done with the word frequency are appreciated. 
